@@ -1,0 +1,71 @@
+4/27/2015 10:28:42 AM,Application Starting...
+4/27/2015 10:29:47 AM,Application Started Succesfully
+4/27/2015 10:54:12 AM,Application Starting...
+4/27/2015 10:54:44 AM,Application Started Succesfully
+4/27/2015 11:33:26 AM,Application Ended: IIS configuration change
+HostingEnvironment initiated shutdown
+HostingEnvironment caused shutdown
+4/27/2015 11:33:26 AM,Application Ended: IIS configuration change
+HostingEnvironment initiated shutdown
+HostingEnvironment caused shutdown
+4/27/2015 11:48:23 AM,Application Starting...
+4/27/2015 11:48:55 AM,Application Started Succesfully
+4/27/2015 12:13:58 PM,Application Ended: HostingEnvironment initiated shutdown
+HostingEnvironment caused shutdown
+4/27/2015 12:50:38 PM,Application Starting...
+4/27/2015 12:52:30 PM,Application Started Succesfully
+4/27/2015 12:55:48 PM,Application Ended: HostingEnvironment initiated shutdown
+HostingEnvironment caused shutdown
+4/27/2015 12:56:42 PM,Application Starting...
+4/27/2015 12:57:54 PM,Application Started Succesfully
+4/27/2015 12:58:24 PM,Application Ended: CONFIG change
+HostingEnvironment initiated shutdown
+HostingEnvironment caused shutdown
+4/27/2015 12:59:13 PM,Application Starting...
+4/27/2015 12:59:53 PM,Application Started Succesfully
+4/27/2015 1:03:39 PM,Application Ended: CONFIG change
+HostingEnvironment initiated shutdown
+HostingEnvironment caused shutdown
+4/27/2015 1:52:23 PM,Application Starting...
+4/27/2015 1:53:08 PM,Application Started Succesfully
+4/27/2015 2:21:54 PM,Application Ended: IIS configuration change
+CONFIG change
+HostingEnvironment initiated shutdown
+CONFIG change
+HostingEnvironment caused shutdown
+4/27/2015 2:47:07 PM,Application Starting...
+4/27/2015 2:47:38 PM,Application Started Succesfully
+4/27/2015 3:18:57 PM,Application Ended: HostingEnvironment initiated shutdown
+HostingEnvironment caused shutdown
+4/27/2015 3:50:34 PM,Application Starting...
+4/27/2015 3:51:00 PM,Application Started Succesfully
+4/27/2015 3:56:27 PM,Application Ended: Change in App_Offline.htm
+HostingEnvironment initiated shutdown
+Change in App_Offline.htm
+Change in App_Offline.htm
+HostingEnvironment caused shutdown
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change in C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\root\e22c2559\92c7e946\hash\hash.web
+Change in App_Offline.htm
+4/27/2015 3:57:02 PM,Application Starting...
+4/27/2015 3:57:25 PM,Migrating Database...
+4/27/2015 3:58:11 PM,Application Started Succesfully
