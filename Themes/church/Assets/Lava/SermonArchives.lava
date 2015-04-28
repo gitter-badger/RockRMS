@@ -1,5 +1,5 @@
-﻿<div class="announcement-list">
-  
+﻿<div class="sermon-list">
+  <!-- Based on announcements lava codes -->
   {% for item in Items -%}
 
     <div class="announcement">
